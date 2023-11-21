@@ -22,10 +22,10 @@ v  4 1 -1
 v  3 3 -1.5
 
 # Texture Coordinates
-vt 0 1 0
-vt 1 1 0
-vt 1 0 0
-vt 0 0 0
+vt 0 1
+vt 1 1
+vt 1 0
+vt 0 0
 
 # Spheres
 mtlcolor 0 0 1 1 1 1 0.1 0.1 0.1 20 0.2 0.5
