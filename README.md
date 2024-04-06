@@ -22,7 +22,7 @@ A CPU ray tracer built entirely from scratch in C++.
 - Texture mapping
 - BVH acceleration
 
-## Usage
+## Setup Instructions
 Build the ray tracer using the given Makefile with
 
 ```shell
